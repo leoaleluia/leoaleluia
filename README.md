@@ -4,7 +4,7 @@
 
 ![Dev Leonardo](https://github-readme-stats.vercel.app/api?username=leoaleluia&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoaleluia&layout=compact)
+
 
 ### Ide's utilizadas
 <div style="dysplay: inline_block"><br/>
