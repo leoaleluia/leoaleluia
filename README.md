@@ -38,6 +38,6 @@
  <div style="dysplay: inline_block"><br/>
     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
     <img align="center" alt="Cousera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
-    <img align="center" alt="Courso em video" src="https://i.imgur.com/66PUpQb.png"/>
+    <img align="center" alt="Courso em video" src="https://i.imgur.com/kfSyjAz.png"/>
     
 
